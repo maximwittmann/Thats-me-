@@ -1,4 +1,4 @@
-👋 Hallo, ich bin Max Wittmann 😃
+👋 Willkommen auf meinem Profil, ich bin Max Wittmann 😃
 
 Ich bin 25 Jahre alt, Umschüler bei CBM Projektmanagement in Hamburg zum Fachinformatiker Anwendungsentwicklung und ein leidenschaftlicher Entwickler sowie Self-Learner mit Schwerpunkt auf Python, C#, C, PHP, HTML und CSS. Auf meinem GitHub-Account finden sie verschiedene Projekte, in denen ich meine Fähigkeiten im Programmieren und im Lösen von Problemen ständig erweitere.
 
